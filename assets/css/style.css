@@ -43,7 +43,6 @@
 .font:hover{
     color: tomato;
 }
-
 /*estilo página trabalhos.html*/
 .wh-trabalhos{
     width: 300px;
@@ -54,4 +53,7 @@
 }
 .mb-50{
     margin-bottom: 50px;
+}
+.cor{
+    background-color: rgb(117, 226, 226);
 }
